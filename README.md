@@ -1,6 +1,10 @@
 
 ## 👋 Hola, soy Juan David Escandón Movilla
 
+<p align="center">
+  <img src="WhatsApp Image 2026-04-22 at 6.06.22 PM.jpeg" width="200"/>
+</p>
+
 🎓 Estudiante de Ingeniería de Sistemas  
 💻 Actualmente aprendiendo: Python y GitHub  
 🚀 Interesado en desarrollo web y proyectos tecnológicos  
