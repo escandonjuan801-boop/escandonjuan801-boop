@@ -5,7 +5,7 @@
 
 - [intagram](https://www.instagram.com/juanescandon04?igsh=cjk4Nzg5ODc5Nm9u&utm_source=qr)
 
-- <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300D4FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Software+Engineering+Student;Always+Learning+New+Technologies">
+- <img src="file:///C:/Users/escan/Downloads/WhatsApp%20Image%202026-04-22%20at%206.06.22%20PM.jpeg" >
  <p align="center">
  
  <img src="https://cdn-icons-png.flaticon.com/512/6009/6009157.png" width="200">
