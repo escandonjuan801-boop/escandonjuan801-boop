@@ -1,26 +1,36 @@
-## Hi 👋Juan David Escandon movilla
 
-- estudiante de ingenieria de sistemas
-- tegnologias que estoy aprendiendo: python y github
+## 👋 Hola, soy Juan David Escandón Movilla
 
-- [intagram](https://www.instagram.com/juanescandon04?igsh=cjk4Nzg5ODc5Nm9u&utm_source=qr)
+🎓 Estudiante de Ingeniería de Sistemas  
+💻 Actualmente aprendiendo: Python y GitHub  
+🚀 Interesado en desarrollo web y proyectos tecnológicos  
 
-- <img src="file:///C:/Users/escan/Downloads/WhatsApp%20Image%202026-04-22%20at%206.06.22%20PM.jpeg" >
- <p align="center">
- 
- <img src="https://cdn-icons-png.flaticon.com/512/6009/6009157.png" width="200">
+---
 
- </p>
-  
- ![githud](https://img.shields.io/badge/github-repo-blue?logo=github)
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=escandonjuan801-boop)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escandonjuan801-boop)
+### 🧠 Tecnologías en aprendizaje
+- Python 🐍  
+- Git & GitHub  
+- HTML / CSS (básico)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=escandonjuan801-boop)
+---
 
-<img src="https://komarev.com/ghpvc/?username=escandonjuan801-boop&label=Profile%20views&color=00D4FF&style=plastic">
+### 🌐 Redes
+- 📸 [Instagram](https://www.instagram.com/juanescandon04)
+
+---
+
+### 📊 Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=escandonjuan801-boop&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escandonjuan801-boop&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=escandonjuan801-boop&theme=tokyonight)
+
+---
+
+### 👀 Visitas al perfil
+<img src="https://komarev.com/ghpvc/?username=escandonjuan801-boop&label=Visitas&color=0e75b6&style=flat" />
 <!--
 **escandonjuan801-boop/escandonjuan801-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
