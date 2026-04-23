@@ -1,40 +1,64 @@
-
-## 👋 Hola, soy Juan David Escandón Movilla
+<h2 align="center">👋 Hola, soy Juan David Escandón Movilla</h2>
 
 <p align="center">
   <img src="WhatsApp Image 2026-04-22 at 6.06.22 PM.jpeg" width="200"/>
 </p>
 
-🎓 Estudiante de Ingeniería de Sistemas  
-💻 Actualmente aprendiendo: Python y GitHub  
-🚀 Interesado en desarrollo web y proyectos tecnológicos  
+<p align="center">
+  🎓 Estudiante de Ingeniería de Sistemas <br>
+  💻 Aprendiendo Python y GitHub <br>
+  🚀 Enfocado en desarrollo web
+</p>
 
 ---
 
 ### 🧠 Tecnologías en aprendizaje
-- Python 🐍  
-- Git & GitHub  
-- HTML / CSS (básico)  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,html,css" />
+</p>
 
 ---
 
-### 🌐 Redes
-- 📸 [Instagram](https://www.instagram.com/juanescandon04)
+### 🌐 Conecta conmigo
+
+<p align="center">
+  <a href="https://www.instagram.com/juanescandon04">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 📊 Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=escandonjuan801-boop&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=escandonjuan801-boop&show_icons=true&theme=tokyonight"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escandonjuan801-boop&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escandonjuan801-boop&layout=compact&theme=tokyonight"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=escandonjuan801-boop&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=escandonjuan801-boop&theme=tokyonight"/>
+</p>
+
+---
+
+### 🎯 Objetivos
+
+- Aprender desarrollo web completo  
+- Crear proyectos reales  
+- Generar ingresos con tecnología 💰  
 
 ---
 
 ### 👀 Visitas al perfil
-<img src="https://komarev.com/ghpvc/?username=escandonjuan801-boop&label=Visitas&color=0e75b6&style=flat" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=escandonjuan801-boop&label=Visitas&color=0e75b6&style=flat"/>
+</p>
 <!--
 **escandonjuan801-boop/escandonjuan801-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
